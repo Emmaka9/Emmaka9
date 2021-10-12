@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to My Profile.
 #### TBU
-![TBU](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![TBU](https://banner.png)
 
 TBU
 
